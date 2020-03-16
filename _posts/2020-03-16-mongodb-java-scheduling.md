@@ -45,7 +45,7 @@ boolean collectionExists = database.listCollectionNames().into(new ArrayList<Str
        }
  ```
 
- ## Inserting and Deleting Documents from MongoDB
+## Inserting and Deleting Documents from MongoDB
 
  MongoDB makes it ultra simple to insert or delete a Document. You can filter all the collection items with Filter.eq which creates a filter that matches all documents where the field is equal to provided value.
 
