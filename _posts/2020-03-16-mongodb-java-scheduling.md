@@ -4,7 +4,7 @@ title: "File Synchorinaztion with MongoDB"
 author: "Ozgur Budak"
 categories: journal
 tags: [documentation,sample]
-image: cards.jpg
+image: mongo.jpg
 ---
 
 Hi! Today I'm going to explain file synchorinaztion with MongoDB, in such a fashion that anybody with an intention of connecting a remote Mongodb server, updating, inserting and deleting data can benefit. I am also going to talk about how someone can do the things above periodically.
