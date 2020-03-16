@@ -1,3 +1,8 @@
+---
+layout: page
+title: Search posts
+---
+
 
 <!-- Html Elements for Search -->
 <div id="search-container">
