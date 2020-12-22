@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "File Synchorinaztion with MongoDB"
+title: "File Synchronization with MongoDB"
 author: "Ozgur Budak"
 categories: journal
 tags: [documentation,sample]
